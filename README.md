@@ -56,7 +56,7 @@ The results show the following Accuracy Score (A), Precision (P), and Recall (R)
   - R: H: 91% L: 94%
   
 ## Conclusion
-Based on the results, the most accurate model is using Easy Ensemble Classifier, with balanced accuracy score of 92.5% (meaning ratio of the total number of correct predictions and the total number of predictions), precision of 7% meaning of all the loans with high risk, 7% of the loan population were classfied correctly as high risk and almost 100% of low risk loans were classified correctly, and recall was 91% (high), meaning all high risk loans were 91% correct in identifying true positives and 94% correct in identifying true low risk loans.
+Based on the results, the most accurate model is using Easy Ensemble Classifier, with balanced accuracy score of 92.5% (meaning ratio of the total number of correct predictions and the total number of predictions), precision of 7% meaning of all the loans with high risk, 7% of the loan population were classfied correctly as high risk and almost 100% of low risk loans were classified correctly, and recall was 91% (high), meaning all high risk loans were 91% correct in identifying true positives and 94% correct in identifying true low risk loans. Recall is more important for this type of model because we wouldn't want a high risk loan to be incorrectly classified as a low risk loan.
 
 
 
