@@ -22,6 +22,7 @@ The purpose of the analysis is to use different techniques (such as RandomOverSa
 
 ### Features Sorted
 ![Image](https://github.com/cstern28/Module-17-Credit_Risk_Analysis/blob/main/Screenshots/Features_Sorted.png)
+
 This shows the features sorted in descending order by which factors are most important to the model.
 
 ### Easy Ensemble Classifier
